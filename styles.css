@@ -298,16 +298,15 @@ span.Seat_Numbr {
 }
 
 span.tkt_icon {
-    background-image: url(tkt_icon.png) no-repeat;
+    background-image: url(tkt_icon.png);
     background-size: 27px;
-    background-repeat: no-repeat;
+    background-repeat-x: no-repeat;
     background-position: -1px -5px;
     float: right;
     padding-left: 30px;
     color: #b6b6b6;
     font-size: 17px;
 }
-
 
 
 
