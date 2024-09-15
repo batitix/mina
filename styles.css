@@ -300,8 +300,7 @@ span.Seat_Numbr {
 span.tkt_icon {
     background-image: url(tkt_icon.png) no-repeat;
     background-size: 27px;
-    background-repeat-x: no-repeat;
-    background-repeat-y: no-repeat;
+    background-repeat: no-repeat;
     background-position: -1px -5px;
     float: right;
     padding-left: 30px;
